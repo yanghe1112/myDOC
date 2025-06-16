@@ -1,0 +1,2 @@
+# myDOC
+docOnly
